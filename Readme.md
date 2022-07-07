@@ -34,6 +34,6 @@ the description should be used.
 
 ### Gif
 
-[![Simulator-Screen-Recording---iPhone-13---2022-07-07-at-23.51.33.gif](https://s8.gifyu.com/images/Simulator-Screen-Recording---iPhone-13---2022-07-07-at-23.51.33.gif)](https://gifyu.com/image/SKWaV)
+[![Simulator-Screen-Recording---iPhone-13---2022-07-07-at-23.51.33.md.gif](https://s8.gifyu.com/images/Simulator-Screen-Recording---iPhone-13---2022-07-07-at-23.51.33.md.gif)](https://gifyu.com/image/SKWaV)
 
 
